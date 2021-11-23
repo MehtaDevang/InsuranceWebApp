@@ -1,4 +1,4 @@
-Policy_id,Date of Purchase,Customer_id,Fuel,VEHICLE_SEGMENT,Premium,bodily injury liability, personal injury protection, property damage liability, collision, comprehensive,Customer_Gender,Customer_Income group,Customer_Region,Customer_Marital_status
+Policy_id,Date of Purchase,Customer_id,Fuel,VEHICLE_SEGMENT,Premium,bodily injury liability,personal injury protection,property damage liability,collision,comprehensive,Customer_Gender,Customer_Income group,Customer_Region,Customer_Marital_status
 12345,1/16/2018,400,CNG,A,958,0,0,0,1,1,Male,0- $25K,North,0
 12346,1/4/2018,401,CNG,A,1272,1,0,0,0,1,Male,$25-$70K,South,1
 12347,1/7/2018,402,CNG,A,2150,0,1,1,1,0,Male,>$70K,East,0
